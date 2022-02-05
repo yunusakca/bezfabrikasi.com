@@ -1,0 +1,388 @@
+:root {
+    --imgSizeW:951.5px;
+    --imgSizeH:500px;
+    --imgSizeWM:420px;
+    --imgSizeHM:200px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #c9c9c9;
+ }
+.noTextDecoration {
+    text-decoration: none;
+}
+
+.menuTextStyle {
+    color: darkgray;
+}
+
+.menuTextStyle:hover {
+    color: black;
+}   
+
+.shipmentBgStyle {
+    width: 100%;
+    height: 40px; 
+    background-color: #c9c9c9; 
+    display: flex; 
+    align-items: center; 
+    font-weight: bold;
+}
+
+.shipmentTextStyle {
+    color: white; 
+    margin-left: 20px;
+}
+
+.logoDiv {
+    width: 100%; 
+    display: flex; 
+    align-items: center;
+    background-color: white;
+}
+
+.logo {
+    height: 50px; 
+    margin-left: 380px;
+}
+
+.menuTextDiv {
+    display: flex; 
+    align-items: center; 
+    justify-content: space-between;
+}
+
+.grayBg {
+    background-color: #c9c9c9;
+}
+
+.whiteBg {
+    background-color: white;
+}
+
+.wholeSaleGif {
+    height: 600px; 
+    width: 1150px;
+}
+
+.homeImg {
+    display: flex;
+    width: 60%;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+.centerAboutUs {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.centerLogo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.centerImg {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.imgSize {
+    width: 380px; 
+    height: 250px;
+}
+.textAlign {
+    text-align: center;
+}
+
+.orderText {
+    display: block;margin-left: auto;align-self:end;
+    /* align-self:flex-end; */
+}
+
+.varOl {
+    display: none;
+}
+.varOlFlex {
+    display: none;
+}
+
+.slider-image-1 {
+    background-size: var(--imgSizeW) var(--imgSizeH);
+    background-image: url('fotoğraflar/IMG-20220130-WA0007.webp');
+}
+
+.slider-image-2 {
+    background-size: var(--imgSizeW) var(--imgSizeH);
+    background-image: url('fotoğraflar/IMG-20220130-WA0008.webp');
+}
+.slider-image-3 {
+    background-size: var(--imgSizeW) var(--imgSizeH);
+    background-image: url('fotoğraflar/IMG-20220130-WA0009.webp');
+}
+.slider-image-4 {
+    background-size: var(--imgSizeW) var(--imgSizeH);
+    background-image: url('fotoğraflar/IMG-20220130-WA0010.webp');
+}
+.slider-image-5 {
+    background-size: var(--imgSizeW) var(--imgSizeH);
+    background-image: url('fotoğraflar/IMG-20220130-WA0011.webp');
+}
+.slider-image-6 {
+    background-size: var(--imgSizeW) var(--imgSizeH);
+    background-image: url('fotoğraflar/IMG-20220130-WA0012.webp');
+}
+.slider-image-7 {
+    background-size: var(--imgSizeW) var(--imgSizeH);
+    background-image: url('fotoğraflar/IMG-20220130-WA0013.webp');
+}
+.slider-image-8 {
+    background-size: var(--imgSizeW) var(--imgSizeH);
+    background-image: url('fotoğraflar/IMG-20220130-WA0014.webp');
+}
+.slider-image-9 {
+    background-size: var(--imgSizeW) var(--imgSizeH);
+    background-image: url('fotoğraflar/IMG-20220130-WA0015.webp');
+}
+.slider-image-10 {
+    background-size: var(--imgSizeW) var(--imgSizeH);
+    background-image: url('fotoğraflar/IMG-20220130-WA0016.webp');
+}
+.slider-image-11 {
+    background-size: var(--imgSizeW) var(--imgSizeH);
+    background-image: url('fotoğraflar/IMG-20220130-WA0017.webp');
+}
+.slider-image-12 {
+    background-size: var(--imgSizeW) var(--imgSizeH);
+    background-image: url('fotoğraflar/IMG-20220130-WA0018.webp');
+}
+.slider-image-13 {
+    background-size: var(--imgSizeW) var(--imgSizeH);
+    background-image: url('fotoğraflar/IMG-20220130-WA0019.webp');
+}
+.slider-image-14 {
+    background-size: var(--imgSizeW) var(--imgSizeH);
+    background-image: url('fotoğraflar/IMG-20220130-WA0020.webp');
+}
+.slider-image-15 {
+    background-size: var(--imgSizeW) var(--imgSizeH);
+    background-image: url('fotoğraflar/IMG-20220130-WA0021.webp');
+}
+.slider-image-16 {
+    background-size: var(--imgSizeW) var(--imgSizeH);
+    background-image: url('fotoğraflar/IMG-20220130-WA0022.webp');
+}
+.slider-image-17 {
+    background-size: var(--imgSizeW) var(--imgSizeH);
+    background-image: url('fotoğraflar/IMG-20220130-WA0023.webp');
+}
+.slider-image-18 {
+    background-size: var(--imgSizeW) var(--imgSizeH);
+    background-image: url('fotoğraflar/IMG-20220130-WA0024.webp');
+}
+.slider-image-19 {
+    background-size: var(--imgSizeW) var(--imgSizeH);
+    background-image: url('fotoğraflar/IMG-20220130-WA0025.webp');
+}
+.slider-image-20 {
+    background-size: var(--imgSizeW) var(--imgSizeH);
+    background-image: url('fotoğraflar/IMG-20220130-WA0026.webp');
+}
+#nextBtn {
+    display: block;margin-left: auto;align-self:center;cursor:pointer;width: 48px;height: 48px;margin-right: 5px;filter: invert(83%) sepia(14%) saturate(2%) hue-rotate(340deg) brightness(111%) contrast(81%);transition: 0.5s ease-out 100ms;
+}
+
+#prevBtn {
+   align-self:center;cursor:pointer;width: 48px;height: 48px;margin-left: 5px;color: gainsboro;filter: invert(83%) sepia(14%) saturate(2%) hue-rotate(340deg) brightness(111%) contrast(81%);transition: 0.5s ease-out 100ms;
+}
+
+#nextBtn:hover {
+    filter: invert(55%) sepia(0%) saturate(102%) hue-rotate(134deg) brightness(91%) contrast(94%);
+}
+
+#prevBtn:hover {
+    filter: invert(55%) sepia(0%) saturate(102%) hue-rotate(134deg) brightness(91%) contrast(94%);
+}
+#slider{
+    display: flex; width: 50%; overflow: hidden; margin: auto; height: 500px;border: 5px solid gainsboro; border-radius: 10px;
+}
+
+.productHeaderStyle {
+    font-size: 20px;
+}
+
+.ulStyle {
+    list-style:none;
+    padding: 0;
+}
+
+/* Responsive */
+
+@media only screen and (max-width: 640px) {
+    .yokOl {
+      display: none;
+    }
+    .logoDiv {
+        box-shadow: 0 5px 5px grey;
+        
+    }
+    .logo {
+        margin-left: 34%;
+        height: 40px; 
+    }
+    .center {
+        height: 300px;
+        width: 100%;
+      }
+    .centerImg {
+        display: block;
+        width: 100%;
+    }
+    .homeImg {
+        width: 100%;
+    }
+    .centerText {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+        text-align: center;
+      }
+    .orderText {
+        display: block;
+        width: 100%;
+    }
+    
+    .centerAboutUs {
+        width: 100%;
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+
+    .centerLogo {
+        display: flex;
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+    }
+
+    .varOl {
+        display: block;
+    }
+    .varOlFlex {
+        display: flex;
+    }
+    
+    .imgSize {
+        width: 350px; 
+        height: 250px;
+        margin: auto;
+        width: 100%;
+    }
+    #nextBtn {
+        margin-right:10px;width: 20px;height: 20px;
+    }
+    
+    #prevBtn {
+        margin-left:10px;width: 20px;height: 20px;
+    }
+    #slider{
+        display: flex; width: 100%; overflow: hidden; height: 200px;margin-left: 5px;margin-right: 5px;margin-top: 5px;
+    }
+    .slider-image-1 {
+        background-size: var(--imgSizeWM) var(--imgSizeHM);
+        background-image: url('fotoğraflar/IMG-20220130-WA0007.webp');
+    }
+    .slider-image-2 {
+        background-size: var(--imgSizeWM) var(--imgSizeHM);
+        background-image: url('fotoğraflar/IMG-20220130-WA0008.webp');
+    }
+    .slider-image-3 {
+        background-size: var(--imgSizeWM) var(--imgSizeHM);
+        background-image: url('fotoğraflar/IMG-20220130-WA0009.webp');
+    }
+    .slider-image-4 {
+        background-size: var(--imgSizeWM) var(--imgSizeHM);
+        background-image: url('fotoğraflar/IMG-20220130-WA0010.webp');
+    }
+    .slider-image-5 {
+        background-size: var(--imgSizeWM) var(--imgSizeHM);
+        background-image: url('fotoğraflar/IMG-20220130-WA0011.webp');
+    }
+    .slider-image-6 {
+        background-size: var(--imgSizeWM) var(--imgSizeHM);
+        background-image: url('fotoğraflar/IMG-20220130-WA0012.webp');
+    }
+    .slider-image-7 {
+        background-size: var(--imgSizeWM) var(--imgSizeHM);
+        background-image: url('fotoğraflar/IMG-20220130-WA0013.webp');
+    }
+    .slider-image-8 {
+        background-size: var(--imgSizeWM) var(--imgSizeHM);
+        background-image: url('fotoğraflar/IMG-20220130-WA0014.webp');
+    }
+    .slider-image-9 {
+        background-size: var(--imgSizeWM) var(--imgSizeHM);
+        background-image: url('fotoğraflar/IMG-20220130-WA0015.webp');
+    }
+    .slider-image-10 {
+        background-size: var(--imgSizeWM) var(--imgSizeHM);
+        background-image: url('fotoğraflar/IMG-20220130-WA0016.webp');
+    }
+    .slider-image-11 {
+        background-size: var(--imgSizeWM) var(--imgSizeHM);
+        background-image: url('fotoğraflar/IMG-20220130-WA0017.webp');
+    }
+    .slider-image-12 {
+        background-size: var(--imgSizeWM) var(--imgSizeHM);
+        background-image: url('fotoğraflar/IMG-20220130-WA0018.webp');
+    }
+    .slider-image-13 {
+        background-size: var(--imgSizeWM) var(--imgSizeHM);
+        background-image: url('fotoğraflar/IMG-20220130-WA0019.webp');
+    }
+    .slider-image-14 {
+        background-size: var(--imgSizeWM) var(--imgSizeHM);
+        background-image: url('fotoğraflar/IMG-20220130-WA0020.webp');
+    }
+    .slider-image-15 {
+        background-size: var(--imgSizeWM) var(--imgSizeHM);
+        background-image: url('fotoğraflar/IMG-20220130-WA0021.webp');
+    }
+    .slider-image-16 {
+        background-size: var(--imgSizeWM) var(--imgSizeHM);
+        background-image: url('fotoğraflar/IMG-20220130-WA0022.webp');
+    }
+    .slider-image-17 {
+        background-size: var(--imgSizeWM) var(--imgSizeHM);
+        background-image: url('fotoğraflar/IMG-20220130-WA0023.webp');
+    }
+    .slider-image-18 {
+        background-size: var(--imgSizeWM) var(--imgSizeHM);
+        background-image: url('fotoğraflar/IMG-20220130-WA0024.webp');
+    }
+    .slider-image-19 {
+        background-size: var(--imgSizeWM) var(--imgSizeHM);
+        background-image: url('fotoğraflar/IMG-20220130-WA0025.webp');
+    }
+    .slider-image-20 {
+        background-size: var(--imgSizeWM) var(--imgSizeHM);
+        background-image: url('fotoğraflar/IMG-20220130-WA0026.webp');
+    }
+    .productHeaderStyle {
+        text-decoration: underline;
+    }
+  }
