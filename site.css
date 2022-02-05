@@ -122,84 +122,84 @@ body {
 
 .slider-image-1 {
     background-size: var(--imgSizeW) var(--imgSizeH);
-    background-image: url('fotoğraflar/IMG-20220130-WA0007.webp');
+    background-image: url('images/IMG-20220130-WA0007.webp');
 }
 
 .slider-image-2 {
     background-size: var(--imgSizeW) var(--imgSizeH);
-    background-image: url('fotoğraflar/IMG-20220130-WA0008.webp');
+    background-image: url('images/IMG-20220130-WA0008.webp');
 }
 .slider-image-3 {
     background-size: var(--imgSizeW) var(--imgSizeH);
-    background-image: url('fotoğraflar/IMG-20220130-WA0009.webp');
+    background-image: url('images/IMG-20220130-WA0009.webp');
 }
 .slider-image-4 {
     background-size: var(--imgSizeW) var(--imgSizeH);
-    background-image: url('fotoğraflar/IMG-20220130-WA0010.webp');
+    background-image: url('images/IMG-20220130-WA0010.webp');
 }
 .slider-image-5 {
     background-size: var(--imgSizeW) var(--imgSizeH);
-    background-image: url('fotoğraflar/IMG-20220130-WA0011.webp');
+    background-image: url('images/IMG-20220130-WA0011.webp');
 }
 .slider-image-6 {
     background-size: var(--imgSizeW) var(--imgSizeH);
-    background-image: url('fotoğraflar/IMG-20220130-WA0012.webp');
+    background-image: url('images/IMG-20220130-WA0012.webp');
 }
 .slider-image-7 {
     background-size: var(--imgSizeW) var(--imgSizeH);
-    background-image: url('fotoğraflar/IMG-20220130-WA0013.webp');
+    background-image: url('images/IMG-20220130-WA0013.webp');
 }
 .slider-image-8 {
     background-size: var(--imgSizeW) var(--imgSizeH);
-    background-image: url('fotoğraflar/IMG-20220130-WA0014.webp');
+    background-image: url('images/IMG-20220130-WA0014.webp');
 }
 .slider-image-9 {
     background-size: var(--imgSizeW) var(--imgSizeH);
-    background-image: url('fotoğraflar/IMG-20220130-WA0015.webp');
+    background-image: url('images/IMG-20220130-WA0015.webp');
 }
 .slider-image-10 {
     background-size: var(--imgSizeW) var(--imgSizeH);
-    background-image: url('fotoğraflar/IMG-20220130-WA0016.webp');
+    background-image: url('images/IMG-20220130-WA0016.webp');
 }
 .slider-image-11 {
     background-size: var(--imgSizeW) var(--imgSizeH);
-    background-image: url('fotoğraflar/IMG-20220130-WA0017.webp');
+    background-image: url('images/IMG-20220130-WA0017.webp');
 }
 .slider-image-12 {
     background-size: var(--imgSizeW) var(--imgSizeH);
-    background-image: url('fotoğraflar/IMG-20220130-WA0018.webp');
+    background-image: url('images/IMG-20220130-WA0018.webp');
 }
 .slider-image-13 {
     background-size: var(--imgSizeW) var(--imgSizeH);
-    background-image: url('fotoğraflar/IMG-20220130-WA0019.webp');
+    background-image: url('images/IMG-20220130-WA0019.webp');
 }
 .slider-image-14 {
     background-size: var(--imgSizeW) var(--imgSizeH);
-    background-image: url('fotoğraflar/IMG-20220130-WA0020.webp');
+    background-image: url('images/IMG-20220130-WA0020.webp');
 }
 .slider-image-15 {
     background-size: var(--imgSizeW) var(--imgSizeH);
-    background-image: url('fotoğraflar/IMG-20220130-WA0021.webp');
+    background-image: url('images/IMG-20220130-WA0021.webp');
 }
 .slider-image-16 {
     background-size: var(--imgSizeW) var(--imgSizeH);
-    background-image: url('fotoğraflar/IMG-20220130-WA0022.webp');
+    background-image: url('images/IMG-20220130-WA0022.webp');
 }
 .slider-image-17 {
     background-size: var(--imgSizeW) var(--imgSizeH);
-    background-image: url('fotoğraflar/IMG-20220130-WA0023.webp');
+    background-image: url('images/IMG-20220130-WA0023.webp');
 }
 .slider-image-18 {
     background-size: var(--imgSizeW) var(--imgSizeH);
-    background-image: url('fotoğraflar/IMG-20220130-WA0024.webp');
+    background-image: url('images/IMG-20220130-WA0024.webp');
 }
 .slider-image-19 {
     background-size: var(--imgSizeW) var(--imgSizeH);
-    background-image: url('fotoğraflar/IMG-20220130-WA0025.webp');
+    background-image: url('images/IMG-20220130-WA0025.webp');
 }
 .slider-image-20 {
     background-size: var(--imgSizeW) var(--imgSizeH);
-    background-image: url('fotoğraflar/IMG-20220130-WA0026.webp');
+    background-image: url('images/IMG-20220130-WA0026.webp');
 }
 #nextBtn {
     display: block;margin-left: auto;align-self:center;cursor:pointer;width: 48px;height: 48px;margin-right: 5px;filter: invert(83%) sepia(14%) saturate(2%) hue-rotate(340deg) brightness(111%) contrast(81%);transition: 0.5s ease-out 100ms;
@@ -304,83 +304,83 @@ body {
     }
     .slider-image-1 {
         background-size: var(--imgSizeWM) var(--imgSizeHM);
-        background-image: url('fotoğraflar/IMG-20220130-WA0007.webp');
+        background-image: url('images/IMG-20220130-WA0007.webp');
     }
     .slider-image-2 {
         background-size: var(--imgSizeWM) var(--imgSizeHM);
-        background-image: url('fotoğraflar/IMG-20220130-WA0008.webp');
+        background-image: url('images/IMG-20220130-WA0008.webp');
     }
     .slider-image-3 {
         background-size: var(--imgSizeWM) var(--imgSizeHM);
-        background-image: url('fotoğraflar/IMG-20220130-WA0009.webp');
+        background-image: url('images/IMG-20220130-WA0009.webp');
     }
     .slider-image-4 {
         background-size: var(--imgSizeWM) var(--imgSizeHM);
-        background-image: url('fotoğraflar/IMG-20220130-WA0010.webp');
+        background-image: url('images/IMG-20220130-WA0010.webp');
     }
     .slider-image-5 {
         background-size: var(--imgSizeWM) var(--imgSizeHM);
-        background-image: url('fotoğraflar/IMG-20220130-WA0011.webp');
+        background-image: url('images/IMG-20220130-WA0011.webp');
     }
     .slider-image-6 {
         background-size: var(--imgSizeWM) var(--imgSizeHM);
-        background-image: url('fotoğraflar/IMG-20220130-WA0012.webp');
+        background-image: url('images/IMG-20220130-WA0012.webp');
     }
     .slider-image-7 {
         background-size: var(--imgSizeWM) var(--imgSizeHM);
-        background-image: url('fotoğraflar/IMG-20220130-WA0013.webp');
+        background-image: url('images/IMG-20220130-WA0013.webp');
     }
     .slider-image-8 {
         background-size: var(--imgSizeWM) var(--imgSizeHM);
-        background-image: url('fotoğraflar/IMG-20220130-WA0014.webp');
+        background-image: url('images/IMG-20220130-WA0014.webp');
     }
     .slider-image-9 {
         background-size: var(--imgSizeWM) var(--imgSizeHM);
-        background-image: url('fotoğraflar/IMG-20220130-WA0015.webp');
+        background-image: url('images/IMG-20220130-WA0015.webp');
     }
     .slider-image-10 {
         background-size: var(--imgSizeWM) var(--imgSizeHM);
-        background-image: url('fotoğraflar/IMG-20220130-WA0016.webp');
+        background-image: url('images/IMG-20220130-WA0016.webp');
     }
     .slider-image-11 {
         background-size: var(--imgSizeWM) var(--imgSizeHM);
-        background-image: url('fotoğraflar/IMG-20220130-WA0017.webp');
+        background-image: url('images/IMG-20220130-WA0017.webp');
     }
     .slider-image-12 {
         background-size: var(--imgSizeWM) var(--imgSizeHM);
-        background-image: url('fotoğraflar/IMG-20220130-WA0018.webp');
+        background-image: url('images/IMG-20220130-WA0018.webp');
     }
     .slider-image-13 {
         background-size: var(--imgSizeWM) var(--imgSizeHM);
-        background-image: url('fotoğraflar/IMG-20220130-WA0019.webp');
+        background-image: url('images/IMG-20220130-WA0019.webp');
     }
     .slider-image-14 {
         background-size: var(--imgSizeWM) var(--imgSizeHM);
-        background-image: url('fotoğraflar/IMG-20220130-WA0020.webp');
+        background-image: url('images/IMG-20220130-WA0020.webp');
     }
     .slider-image-15 {
         background-size: var(--imgSizeWM) var(--imgSizeHM);
-        background-image: url('fotoğraflar/IMG-20220130-WA0021.webp');
+        background-image: url('images/IMG-20220130-WA0021.webp');
     }
     .slider-image-16 {
         background-size: var(--imgSizeWM) var(--imgSizeHM);
-        background-image: url('fotoğraflar/IMG-20220130-WA0022.webp');
+        background-image: url('images/IMG-20220130-WA0022.webp');
     }
     .slider-image-17 {
         background-size: var(--imgSizeWM) var(--imgSizeHM);
-        background-image: url('fotoğraflar/IMG-20220130-WA0023.webp');
+        background-image: url('images/IMG-20220130-WA0023.webp');
     }
     .slider-image-18 {
         background-size: var(--imgSizeWM) var(--imgSizeHM);
-        background-image: url('fotoğraflar/IMG-20220130-WA0024.webp');
+        background-image: url('images/IMG-20220130-WA0024.webp');
     }
     .slider-image-19 {
         background-size: var(--imgSizeWM) var(--imgSizeHM);
-        background-image: url('fotoğraflar/IMG-20220130-WA0025.webp');
+        background-image: url('images/IMG-20220130-WA0025.webp');
     }
     .slider-image-20 {
         background-size: var(--imgSizeWM) var(--imgSizeHM);
-        background-image: url('fotoğraflar/IMG-20220130-WA0026.webp');
+        background-image: url('images/IMG-20220130-WA0026.webp');
     }
     .productHeaderStyle {
         text-decoration: underline;
